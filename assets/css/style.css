@@ -78,7 +78,7 @@ h6 {
   z-index: 9997;
   transition: all 0.5s;
   padding: 0 15px;
-  background: #081e3b;
+  background: hsl(198, 100%, 14%);
   overflow-y: auto;
 }
 
@@ -121,7 +121,7 @@ h6 {
 }
 
 #header .profile .social-links a:hover {
-  background: #149ddd;
+  background: hsl(198, 100%, 50%);
   color: #fff;
   text-decoration: none;
 }
